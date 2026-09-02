@@ -5,7 +5,7 @@ This project presents an interactive Sales Analytics Dashboard built in Microsof
 
 ## Dashboard Preview
 
-![Dashboard Preview]((https://github.com/ankurghosh99/Interactive-Sales-Dashboard/blob/main/WhatsApp%20Image%202026-09-02%20at%2015.38.53%20(1).jpeg)](https://github.com/ankurghosh99/Interactive-Sales-Dashboard/blob/main/WhatsApp%20Image%202026-09-02%20at%2015.38.53%20(1).jpeg))
+![Dashboard Preview](dashboard-preview.jpeg)
 
 ## Key Features
 
