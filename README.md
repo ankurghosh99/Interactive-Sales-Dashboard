@@ -5,7 +5,7 @@ This project presents an interactive Sales Analytics Dashboard built in Microsof
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard_1.jpeg)
+![Dashboard Preview](dashboard_1.jpg)
 
 ## Key Features
 
